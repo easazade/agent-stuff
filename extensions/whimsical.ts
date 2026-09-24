@@ -461,7 +461,7 @@ const messages = [
   "Awakening ancestral memory...",
   "Seeking the Kwisatz Haderach...",
   "Seeking lisan al-Gaib...",
-  "Consulting the Mentat...",
+  "Consulting the Mentats...",
   "Peering through prescience...",
   "Navigating possible futures...",
 ];
